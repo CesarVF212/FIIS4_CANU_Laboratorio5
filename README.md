@@ -6,8 +6,6 @@ $$
 I[f] = \tfrac{9}{4}\, h\, f(x_1) + \tfrac{3}{4}\, h\, f(x_2).
 $$
 
-Los pesos $9/4$ y $3/4$ se almacenan en una variable de módulo llamada `PESOS = (9/4, 3/4)`.
-
 **(a)** Determina **experimentalmente** el grado de exactitud de la regla sobre el intervalo $[0, 1]$.
 
 **(b)** Aplica la regla para estimar
